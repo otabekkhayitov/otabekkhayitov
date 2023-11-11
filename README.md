@@ -1,1 +1,3 @@
-### Hi, I'm Otabek Khayitov <img src="https://media1.giphy.com/media/vBFu7SXMkxLcVmmhvS/giphy.gif?cid=ecf05e47r8tlanf2jx1et68dzq7f0s4c3d21kov92whpagv5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"> 
+### Hi, I'm Otabek Khayitov <img src="https://media1.giphy.com/media/vBFu7SXMkxLcVmmhvS/giphy.gif?cid=ecf05e47r8tlanf2jx1et68dzq7f0s4c3d21kov92whpagv5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/> 
+### Languages and tools I work with:
+<br/>
