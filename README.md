@@ -3,6 +3,7 @@ Hi, I'm Otabek Khayitov <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 Languages and tools I work with: 
 <br/>
 <code><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px"></code>
+<code><img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" width="50px"></code>
 
 
 
