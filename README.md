@@ -5,7 +5,7 @@ Languages and tools I work with:
 <code><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" width="43px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="38px"></code>
-<code><img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" width="38px"></code>
+<code><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="38px"></code>
 
 
 
