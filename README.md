@@ -3,7 +3,7 @@ Hi, I'm Otabek Khayitov <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 Languages and tools I work with: 
 <br/>
 <code><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png" width="50px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png" width="50px"></code>
 
 
 
