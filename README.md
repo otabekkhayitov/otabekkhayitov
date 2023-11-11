@@ -1,1 +1,1 @@
-### Hi, I'm Otabek Otabek Khayitov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ln6svzev078j0wekyac67rgqth83i3h68ms0mkb7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
+### Hi, I'm Otabek Khayitov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ln6svzev078j0wekyac67rgqth83i3h68ms0mkb7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
