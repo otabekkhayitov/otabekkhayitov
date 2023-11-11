@@ -3,7 +3,7 @@ Hi, I'm Otabek Khayitov <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 Languages and tools I work with: 
 <br/>
 <code><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px"></code>
-<code><img src="https://logospng.org/wp-content/uploads/css-3.png" width="45px"></code>
+<code><img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" width="45px"></code>
 
 
 
