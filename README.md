@@ -1,1 +1,1 @@
-### Hi, I'm Otabek Khayitov <img src="https://giphy.com/gifs/hello-wave-hand-gM5qFksULw54NMWyry?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term" width="30">
+### Hi, I'm Otabek Khayitov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd6NWVmMGIyNGs2MHE2dnpud3MxeXJobzF5emdrMXp1eXZwam03eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30">
