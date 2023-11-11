@@ -1,6 +1,8 @@
 Hi, I'm Otabek Khayitov <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="27px">
-<br>
+<br/>
 Languages and tools I work with: 
+<br/>
+<img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px">
 
 
 
